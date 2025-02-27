@@ -18,5 +18,5 @@ setuptools.setup(
     url="https://github.com/berreergun/IRonPy",
     license='MIT',
     python_requires='>=2',
-    install_requires=["pywin32 >= 1.0;platform_system=='Windows'","matplotlib",'numpy','pandas','sklearn']
+    install_requires=["pywin32 >= 1.0;platform_system=='Windows'","matplotlib",'numpy','pandas','scikit-learn']
 )
